@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Second Home Work
+  m_EditorClassIdentifier: 
+  m_GroupName: Second Home Work
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 052e032fa6885f5449fe5128e819a487
+  m_SerializeEntries:
+  - m_GUID: 5c3182ba9cdbc10489006a47d988cb2c
+    m_Address: Assets/2/Configs/PlayerConfigSecond.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SecondPlayer
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe0f0c3210ed01d4b84f21260e8b0548
+    m_Address: Assets/2/Configs/InApps/InAppConfig4Second.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SecondInApp1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cdcd55907638aa4da22b2b1961f966d
+    m_Address: Assets/2/Configs/InApps/InAppConfig3Second.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SecondInApp2
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80525dc16f2739a4da072ccfb423378e
+    m_Address: Assets/2/Configs/InApps/InAppConfig2Second.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SecondInApp3
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 772a597f2c6fd3a499c894a6eade8e6c
+    m_Address: Assets/2/Configs/InApps/InAppConfig1Second.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SecondInApp4
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f95f8af40f9c09648a23bf4cf87c9174, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 53b8ccdab4ee9cd4aaebc99119d7715d, type: 2}
+    - {fileID: 11400000, guid: 6ed482159b7a623468b59b6325aa5b6a, type: 2}
